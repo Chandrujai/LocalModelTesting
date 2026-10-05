@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated reports
+models/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+
+# Local configuration
+.env
+
+# Excel files containing customer data
+contacts.xlsx
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
